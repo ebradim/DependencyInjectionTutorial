@@ -1,0 +1,16 @@
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.exe
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.deps.json
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.runtimeconfig.json
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.runtimeconfig.dev.json
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.dll
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\ref\DependencyInjectionTutorial.dll
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\bin\Debug\net5.0\DependencyInjectionTutorial.pdb
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.csprojAssemblyReference.cache
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.AssemblyInfoInputs.cache
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.AssemblyInfo.cs
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.csproj.CoreCompileInputs.cache
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.dll
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\ref\DependencyInjectionTutorial.dll
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.pdb
+D:\Youtube\V2\ASP.NET Core\Dependcy Injection\DependencyInjectionTutorial\obj\Debug\net5.0\DependencyInjectionTutorial.genruntimeconfig.cache
